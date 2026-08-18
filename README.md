@@ -1,7 +1,9 @@
 # Dam Water Level Monitoring System
 
 • Developed a full-stack React and Node.js application for monitoring dam water levels, operator management, authentication, and system settings.
+
 • Deployed the production application on AWS EC2 using Nginx as a reverse proxy and PM2 for persistent Node.js process management.
+
 • Integrated MongoDB Atlas for cloud database persistence and configured secure EC2-to-Atlas connectivity.
 
 ## 🚀 Live Deployment
